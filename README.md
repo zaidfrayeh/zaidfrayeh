@@ -23,7 +23,7 @@
 
 
 [<img align="left" alt="zaidfrayeh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="zaidfrayeh | Mail" width="22px" src="(http://dabblet.com/gist/2310844)" />][email]
+[<img align="left" alt="zaidfrayeh | Mail" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/email.png"  />  />][email]
 
 
 
