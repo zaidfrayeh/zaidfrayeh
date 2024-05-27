@@ -3,7 +3,7 @@
 <h2>👨‍💻 CSUF Projects:</h2>
 
 - <b>	Traffic Light Controller Assembly:  </b>
-  - (https://github.com/zaidfrayeh/Traffic-Light-Controller)
+  - FILES (https://github.com/zaidfrayeh/Traffic-Light-Controller)
 - <b>	Digital Piano Construction: </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>	LCD Screen Value Display Program: </b>
