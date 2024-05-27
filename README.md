@@ -7,6 +7,11 @@
 - <b>	[LCD Screen Value Display Program](https://github.com/zaidfrayeh/-LCD-Screen-Value-Display-Program) </b>
 - <b>	[Automated Playing Card Sorter](https://github.com/zaidfrayeh/-Automated-Playing-Card-Sorter) </b>
 - <b>	[Digital Safe with Seven-Segment Display (Nexys 4 DDR Artix-7 FPGA)](https://github.com/zaidfrayeh/-Digital-Safe-with-Seven-Segment-Display-Nexys-4-DDR-Artix-7-FPGA) </b>
+<h4>👨‍💻 Skills:</h4>
+- <b> Languages: c/c++ / Verilog / VHDL / Embedded Assembly / Embedded C / SQL / Matlab </b>
+- <b> EE: Pspice / Multisim / Oscilliscope </b>
+- <b> CE: Mealy- Moore machines / Sequential-combinational circuits / Synchronous-Asynchronous circuits / Microcontrollers </b>
+- <b> Boards: Arduino / MSP432/ Artix-7 / ESP32 </b>
 
 
 
