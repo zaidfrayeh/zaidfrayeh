@@ -2,15 +2,10 @@
 
 <h2>👨‍💻 CSUF Projects:</h2>
 
-- <b>	[Traffic Light Controller Assembly:](https://github.com/zaidfrayeh/Traffic-Light-Controller)  </b>
-- <b>	Digital Piano Construction: </b>
-  - [Files](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>	LCD Screen Value Display Program: </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>	Digital Safe with Seven-Segment Display (Nexys 4 DDR Artix-7 FPGA): : </b>
+- <b>	[Traffic Light Controller Assembly](https://github.com/zaidfrayeh/Traffic-Light-Controller)  </b>
+- <b>	[Digital Piano Construction](https://github.com/zaidfrayeh/-Digital-Piano-Construction-) </b>
+- <b>	[LCD Screen Value Display Program](https://github.com/zaidfrayeh/-LCD-Screen-Value-Display-Program) </b>
+- <b>	[Digital Safe with Seven-Segment Display (Nexys 4 DDR Artix-7 FPGA)](https://github.com/zaidfrayeh/-Digital-Safe-with-Seven-Segment-Display-Nexys-4-DDR-Artix-7-FPGA) </b>
 
 
 
