@@ -2,10 +2,9 @@
 
 <h2>👨‍💻 CSUF Projects:</h2>
 
-- <b>	Traffic Light Controller Assembly:  </b>
-  - [FILES](https://github.com/zaidfrayeh/Traffic-Light-Controller)
+- <b>	[Traffic Light Controller Assembly:](https://github.com/zaidfrayeh/Traffic-Light-Controller)  </b>
 - <b>	Digital Piano Construction: </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Files](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>	LCD Screen Value Display Program: </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
