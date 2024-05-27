@@ -1,6 +1,6 @@
 <h1>Hi, I'm Zaid! <br/><a href="https://github.com/zaidfrayeh">Computer Engineer</a>,
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 CSUF Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
