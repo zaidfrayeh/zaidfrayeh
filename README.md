@@ -23,13 +23,13 @@
 
 
 [<img align="left" alt="zaidfrayeh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="zaidfrayeh | Mail" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/email.png"  />  />][email]
+[<img align="left" alt="zaidfrayeh | Mail" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/email.png"    />][email]
 
 
 
 
 [linkedin]: https://linkedin.com/in/zaidfrayeh
-[mail]: [zaidfrayeh@live.com](mailto:zaidfrayeh@live.com)
+[Email]: [zaidfrayeh@live.com](mailto:zaidfrayeh@live.com)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
