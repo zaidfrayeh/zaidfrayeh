@@ -23,7 +23,7 @@
 
 
 [<img align="left" alt="zaidfrayeh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="zaidfrayeh | <a href="mailto:email@example.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email"/></a>
+ <a href="mailto:email@example.com"><img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email"/></a>
 
 
 
