@@ -1,6 +1,6 @@
-<h1>Hi, I'm Zaid! <br/><a href="https://github.com/zaidfrayeh">Computer Engineer</a>,
-
-<h2>👨‍💻 CSUF Projects:</h2>
+<h1>Hi, I'm Zaid! <br/><a href="https://github.com/zaidfrayeh">Computer Engineer</a>
+<h2> BS Computer Engineering - California State University Fullerton. (GPA 3.7)  
+<h3>👨‍💻 CSUF Projects:</h3>
 
 - <b>	[Traffic Light Controller Assembly](https://github.com/zaidfrayeh/Traffic-Light-Controller)  </b>
 - <b>	[Digital Piano Construction](https://github.com/zaidfrayeh/-Digital-Piano-Construction-) </b>
